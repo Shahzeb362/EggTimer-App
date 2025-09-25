@@ -8,7 +8,7 @@ Choose between **Soft, Medium, or Hard** modes, and the app will set the timer a
 ## 📱 Main Screen
 
 <p align="left">
-  <img src="Document/screenshot1.png" alt="EggTimer Screen" width="250" />
+  <img src="Document/screenshot5.png" alt="EggTimer Screen" width="250" />
 </p>
 
 ---
@@ -16,9 +16,9 @@ Choose between **Soft, Medium, or Hard** modes, and the app will set the timer a
 ## 📱 Screenshot
 
 <p align="left">
-  <img src="Document/screenshot2.png" alt="EggTimer Screen" width="250" />
-  <img src="Document/screenshot3.png" alt="EggTimer Screen" width="250" />
-  <img src="Document/screenshot4.png" alt="EggTimer Screen" width="250" />
+  <img src="Document/screenshot6.png" alt="EggTimer Screen" width="250" />
+  <img src="Document/screenshot7.png" alt="EggTimer Screen" width="250" />
+  <img src="Document/screenshot8.png" alt="EggTimer Screen" width="250" />
 </p>
 
 ---
